@@ -1,7 +1,7 @@
 {
   "name": "node-image-interlace",
   "version": "0.0.1",
-  "description": "Progressive JPEG",
+  "description": "Progressive JPEG with interlace",
   "repository": {
     "type": "git",
     "url": "git@github.com:madurmanov/node-image-interlace.git"
