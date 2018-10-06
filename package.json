@@ -1,0 +1,16 @@
+{
+  "name": "node-image-interlace",
+  "version": "0.0.1",
+  "description": "Progressive JPEG",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:madurmanov/node-image-interlace.git"
+  },
+  "main": "index.js",
+  "author": "Mikhail Durmanov",
+  "license": "MIT",
+  "dependencies": {
+    "gm": "^1.23.1",
+    "is-progressive": "^3.0.0"
+  }
+}
